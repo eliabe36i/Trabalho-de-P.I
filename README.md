@@ -8,7 +8,10 @@ Este repositório contém o código e a documentação do nosso projeto integrad
 ## Equipe
 
 - ELIABE - GIT HUB- VERSIONAMENTO
+- 
 - RAFAELA-KARINA MARCOS - DOCUMENTAÇÃO
+
+  
  -WEB- SUPORTE- LUCAS-WILLIAN
 -
 
