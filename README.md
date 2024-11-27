@@ -19,12 +19,9 @@ Este repositório contém o código e a documentação do nosso projeto integrad
 
 ## Tecnologias Utilizadas
 
-
-
-## Funcionalidades
-
-
-
+-HTML
+-JS
+-BOOSTRAP 5
 ## Instalação
 
 Para instalar e executar este projeto, siga os passos abaixo:
